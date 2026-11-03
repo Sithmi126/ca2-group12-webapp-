@@ -1,0 +1,5 @@
+Group No - 12
+Name                              Role
+M.R.S.Nishadini                   Azure lead, Repo lead
+S.G.N.K.Piyathilaka               Deployment lead    
+K.G.H.Nisansala                   Deployment lead    
