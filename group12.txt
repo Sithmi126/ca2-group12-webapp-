@@ -5,3 +5,4 @@ M.R.S.Nishadini                   Azure lead, Repo lead
 S.A.S.S Premachandra              Frontend lead
 S.G.N.K.Piyathilaka               Deployment lead    
 K.G.H.Nisansala                   Deployment lead    
+A.P.M.Piyumini                    Frontend lead
